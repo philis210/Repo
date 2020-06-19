@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5096-0C3B
+
+ Directory of C:\Users\pandre\Desktop\QC-One
+
+2020-06-19  06:59 PM    <DIR>          .
+2020-06-19  06:59 PM    <DIR>          ..
+2020-06-19  06:59 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  36,109,594,624 bytes free
