@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.2</version>
+		<version>0.0.0.3</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>17aecd5b5144a43c8ec9ea6844063d7a</md5>
-		<description>Green was horrible fixed some other stuff \n\t- all customization</description>
+		<md5>5b57f707b2ccfe2e44c2835a3bb2c6bd</md5>
+		<description>New QC-One GUI - Designed by Aubri</description>
 		<launchArgs></launchArgs>
 	</update>
 </NAV2QC1_Updater>
