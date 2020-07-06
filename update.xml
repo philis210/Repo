@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
-	<update appId="NAV2QC1">
-		<version>0.0.0.5</version>
+	<update appId="QC-One Updater">
+		<version>0.0.0.1</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>5447c7ee641ecf8d200164b40574c66f</md5>
+		<md5>cc08c4ea627791c09f9ebc908bf2d906</md5>
 		<description>New QC-One GUI</description>
 		<launchArgs></launchArgs>
 	</update>
