@@ -5,7 +5,7 @@
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
 		<md5>e8640c36ee3f7f7a53ea86c1c8130f15</md5>
-		<description>New QC-One GUI</br> -testing last update forms</br> - testing new page spacing</description>
+		<description>New QC-One GUI\n -testing last update forms\n - testing new page spacing</description>
 		<launchArgs></launchArgs>
 	</update>
 </NAV2QC1_Updater>
