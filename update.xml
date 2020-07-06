@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.1</version>
+		<version>0.0.0.2</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>74e84db84c9f9678b935f1d10a1e2e33</md5>
-		<description>Lightgreen \n\t- all customization</description>
+		<md5>17aecd5b5144a43c8ec9ea6844063d7a</md5>
+		<description>Green was horrible fixed some other stuff \n\t- all customization</description>
 		<launchArgs></launchArgs>
 	</update>
 </NAV2QC1_Updater>
