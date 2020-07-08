@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.1</version>
+		<version>0.0.0.2</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>27b3f348dcb01fd81f923712d9bc9fe3</md5>
-		<description>Adds Modification date to App</description>
+		<md5>27426b6ecf7faf890a20d5e101decf7f</md5>
+		<description>Changed Icon</description>
 		<launchArgs></launchArgs>
 	</update>
 </NAV2QC1_Updater>
