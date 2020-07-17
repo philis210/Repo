@@ -8,5 +8,6 @@
 		<description>Updating List-Your done son.</description>
 		<launchArgs></launchArgs>
 		<ghost>x</ghost>
+		<ghostbuster>x</ghostbuster>
 	</update>
 </NAV2QC1_Updater>
