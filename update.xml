@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.2</version>
+		<version>0.0.0.3</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>2650ef75e0e177511408a685214ebb4b</md5>
+		<md5>f072114fc03e2525872245a24aa8f646</md5>
 		<description>Only Audit Customers...lol</description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
