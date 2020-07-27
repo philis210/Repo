@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <DailyEmail_Updater>
 	<update appId="NAV Reports">
-		<version>1.0.0.0</version>
+		<version>1.0.0.1</version>
 		<url>https://github.com/philis210/Repo/raw/master/Daily%20Email.exe</url>
 		<fileName>Daily Email.exe</fileName>
-		<md5>f30d03a1474da2ed805bd67b890bf60e</md5>
+		<md5>0b0e07bb94c5799572709285a594853e</md5>
 		<description>NewVersion</description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
