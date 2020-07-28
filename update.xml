@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.4</version>
+		<version>0.0.0.5</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>8c4fed138c28fc5bc5e451a3051c75d5</md5>
-		<description>Error while loading and while upload. "Data not in expected format"</description>
+		<md5>74597e3fb3286541b2fc36aa688c9b60</md5>
+		<description>Should fix all errors while loading and while uploading customers.  Data not in expected format. Also added Line_No for potential justfood integration.  Added EAN and TUN to audits.</description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
 		<ghostbuster>x</ghostbuster>
