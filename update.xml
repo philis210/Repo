@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.11</version>
+		<version>0.0.0.12</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>77aca4f9e570be1cc50279011fe94bed</md5>
+		<md5>490e1a7163ff1da837e9fe1d276bb312</md5>
 		<description>Changed from excel to access database.</description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
