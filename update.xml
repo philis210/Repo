@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.13</version>
+		<version>0.0.0.15</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>ea12e22ce95ef545002202b2f0235c8e</md5>
-		<description>Changes to the purchase order. Moving to assigning in qc-one.</description>
+		<md5>094619cd861038a06c4370dda9655b04</md5>
+		<description>Shutup... You try doing this crap...lol</description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
 		<ghostbuster>x</ghostbuster>
