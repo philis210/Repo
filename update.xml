@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
 	<update appId="QC-One Updater">
-		<version>0.0.0.16</version>
+		<version>0.0.0.17</version>
 		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
 		<fileName>QC-One Updater.exe</fileName>
-		<md5>ca717ebc80a6c229f91d9cafb7612f21</md5>
-		<description>Shutup... You try doing this crap...lol</description>
+		<md5>f5d17c49d3ff70818201179a294c9aa4</md5>
+		<description></description>
 		<launchArgs></launchArgs>
 		<ghost>2020-07-14</ghost>
 		<ghostbuster>x</ghostbuster>
