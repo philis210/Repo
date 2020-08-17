@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NAV2QC1_Updater>
+	<update appId="QC-One Updater">
+		<version>2.0.0.0</version>
+		<url>https://github.com/philis210/Repo/raw/master/NAV2ROCKETREPORT_Updater.exe</url>
+		<fileName>NAV2ROCKETREPORT_Updater.exe</fileName>
+		<md5>601eb1dabb921878cab822cabbc0256c</md5>
+		<description>Intial</description>
+		<launchArgs></launchArgs>
+		<ghost>2020-07-14</ghost>
+		<ghostbuster>x</ghostbuster>
+	</update>
+</NAV2QC1_Updater>
