@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <NAV2QC1_Updater>
-	<update appId="QC-One Updater">
+	<update appId="NAV2ROCKETREPORT_Updater">
 		<version>2.0.0.0</version>
 		<url>https://github.com/philis210/Repo/raw/master/NAV2ROCKETREPORT_Updater.exe</url>
 		<fileName>NAV2ROCKETREPORT_Updater.exe</fileName>
