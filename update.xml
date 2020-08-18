@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <NAV2NFF_Updater>
-	<update appId="NAV2ROCKETREPORT_Updater">
-		<version>3.0.0.0</version>
-		<url>https://github.com/philis210/Repo/raw/master/NAV2ROCKETREPORT_Updater.exe</url>
-		<fileName>NAV2ROCKETREPORT_Updater.exe</fileName>
-		<md5>8b9dcfe0647e13e9dc7a2e4c274990bb</md5>
+	<update appId="RocketReport Updater">
+		<version>2.0.0.0</version>
+		<url>https://github.com/philis210/Repo/raw/master/RocketReport%20Updater.exe</url>
+		<fileName>RocketReport Updater.exe</fileName>
+		<md5>0a5732239ff1f14809310874fe0332a9</md5>
 		<description>Intial</description>
 		<launchArgs></launchArgs>
 	</update>
