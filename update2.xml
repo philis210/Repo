@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<NAV2QC1_Updater>
+	<update appId="QC-One Updater">
+		<version>0.0.0.19</version>
+		<url>https://github.com/philis210/Repo/raw/master/QC-One%20Updater.exe</url>
+		<fileName>QC-One Updater.exe</fileName>
+		<md5>9e1f281898184bb684e1797bcf246157</md5>
+		<description></description>
+		<launchArgs></launchArgs>
+		<ghost>2020-07-14</ghost>
+		<ghostbuster>x</ghostbuster>
+	</update>
+</NAV2QC1_Updater>
