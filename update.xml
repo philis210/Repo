@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<NAV2NFF_Updater>
-	<update appId="RocketReport Updater">
+<NAV2DAILY_Updater>
+	<update appId="DailyReport Updater">
 		<version>2.0.0.0</version>
-		<url>https://github.com/philis210/Repo/raw/master/RocketReport%20Updater.exe</url>
-		<fileName>RocketReport Updater.exe</fileName>
-		<md5>0a5732239ff1f14809310874fe0332a9</md5>
+		<url>https://github.com/philis210/Repo/raw/master/DailyReport_Updater.exe</url>
+		<fileName>DailyReport_Updater.exe</fileName>
+		<md5>4e6509127bb998a300e188fc9bb1231c</md5>
 		<description>Intial</description>
 		<launchArgs></launchArgs>
 	</update>
-</NAV2NFF_Updater>
+</NAV2DAILY_Updater>
